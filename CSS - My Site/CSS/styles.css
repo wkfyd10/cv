@@ -1,0 +1,135 @@
+h1 {
+    margin: 50px auto 0 auto;
+    font-family: 'Allison', cursive;
+    font-size: 6rem;
+    color: #66BFBF;
+}
+
+body {
+    margin: 0px;
+    text-align: center;
+}
+
+.top-container {
+    position: relative;
+    background-color: #07689F;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 600px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+}
+.middle-container{margin: 100px auto 100px auto;}
+
+.bottom-container {background-color: #07689F;
+margin: 0;
+padding-top: 30px;}
+
+.mountain {
+    margin: 0px;
+    bottom: 0px;
+}
+
+.contact-description{width:30%; margin:0 auto 100px auto;}
+
+h2 {
+    font-family: 'Roboto', sans-serif;
+    font-size: 2.5rem;
+    color: #66BFBF;
+}
+
+h3 {
+    color: #11999E;
+}
+
+a {
+    color: #11999E
+}
+
+.first-h2 {
+    font-weight: normal;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer {
+    width: 15%;
+    float: left;
+    margin-right: 30px;
+}
+
+.CSS {
+    width: 15%;
+    float: right; 
+    margin-left: 30px;
+    
+}
+
+hr{color: #EAF6F6;
+border: none;
+border-top-style: dotted;
+width: 5%;
+border-top-width: 10px;     
+margin: 100px auto 100px auto;}
+
+.copy-right{margin: 0;
+padding: 30px;
+color:#EAF6F6;
+font-size: 7.5px;}
+
+.contact-me{line-height: 2;}
+
+.btn {
+    background: #11CDD4;
+    background-image: -webkit-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -moz-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -ms-linear-gradient(top, #11CDD4, #11999e);
+    background-image: -o-linear-gradient(top, #11CDD4, #11999e);
+    background-image: linear-gradient(to bottom, #11CDD4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ab);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ab);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ab);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ab);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ab);
+    text-decoration: none;
+  }
+
+ a{color: #11999E;
+ font-family: 'Roboto', sans-serif;
+text-decoration: none;}
+
+.profile-description{width: 30%;
+margin: auto;}
+
+p{line-height: 2;}
+
+
+.footer-link{color: #11999E;
+    font-family: 'Roboto', sans-serif;
+font-weight: bold;
+margin: auto 10px auto 20px}
+
+a:hover {color:white}
